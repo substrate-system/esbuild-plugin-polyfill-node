@@ -1,5 +1,5 @@
 {
-	"name": "esbuild-plugin-polyfill-node",
+	"name": "@substrate-system/esbuild-plugin-polyfill-node",
 	"version": "0.3.0",
 	"description": "ESBuild plugin for polyfilling Node.js builtins for edge and Deno",
 	"type": "module",
